@@ -1,0 +1,12 @@
+ .navbar {
+      border-radius: 0;
+      margin-bottom: inherit;
+    }
+    
+   a:link,
+   a:visited,
+   a:active,
+   a:hover
+   {
+   color: black;
+    }
